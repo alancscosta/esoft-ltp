@@ -13,6 +13,6 @@ Esta pasta reúne o exemplo de login com sessões e a atividade sobre o sistema.
 
 ## Como executar
 
-Coloque a pasta em C:\xampp\htdocs\session\, inicie o Apache pelo XAMPP e acesse http://localhost/session/login.html.
+Coloque a pasta em C:\xampp\htdocs\aula10\session\, inicie o Apache pelo XAMPP e acesse http://localhost/aula10/session/login.html.
 
 Credenciais do exemplo: usuário admin, senha 12345.
